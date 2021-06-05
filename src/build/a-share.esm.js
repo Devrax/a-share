@@ -1,0 +1,1 @@
+import{p as t,b as e}from"./p-ed5c535b.js";(()=>{const e=import.meta.url,r={};return""!==e&&(r.resourcesUrl=new URL(".",e).href),t(r)})().then((t=>e([["p-8ffaca2b",[[0,"a-share",{urlTitle:[1,"url-title"],url:[1],text:[1],files:[16]},[[0,"click","onClick"],[1,"touchend","onTouch"]]]]]],t)));
